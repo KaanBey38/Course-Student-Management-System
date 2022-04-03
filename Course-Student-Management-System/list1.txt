@@ -1,0 +1,12 @@
+CENG111
+Luke 101
+Leia 102
+END
+CENG218
+Aragorn 201
+Arwen 202
+END
+CENG407
+Kirk 301
+McCoy 302
+END
